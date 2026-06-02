@@ -126,6 +126,6 @@ Add project screenshots here.
 
 # 👨‍💻 Developed By
 
-Your Name
+Muhammad Umair
 
 Internship Project – DecodeLabs
